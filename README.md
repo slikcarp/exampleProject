@@ -1,2 +1,0 @@
-# exampleProject
-Learning project
